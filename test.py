@@ -1,11 +1,17 @@
-list1 = [1,2,4]
-list2 = [1,3,4]
+# s1 = input("Enter any string to swap case: ")
 
-sortedLst = []
+# lst = list(s1)
+# for i in range(len(lst)):
+#     Ascii = ord(lst[i])
+#     if Ascii >= 65 and Ascii <= 90:
+#         Ascii += 32
+#         lst[i] = chr(Ascii)
+#     elif Ascii >= 90 and Ascii <= 122:
+#         Ascii -= 32
+#         lst[i] = chr(Ascii)
 
-for i in range(len(list1)):
-    sortedLst.append(list1[i])
-for j in range(len(list2)):
-    sortedLst.append(list2[i])
-sortedLst.sort()
-print(sortedLst)
+# s = ''.join(lst)
+# print(s)
+
+s1 = input("Enter word: ")
+s2 = input("Enter word2: ")
