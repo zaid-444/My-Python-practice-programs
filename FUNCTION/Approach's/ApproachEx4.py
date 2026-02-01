@@ -18,5 +18,3 @@ print("---------------OR-----------------")
 
 res = addop()
 print(res,type(res))
-
-# Define a function for Cal area and perimeter of Square sarea = side x side speri = 4 x side
