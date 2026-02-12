@@ -13,5 +13,3 @@
 # s = ''.join(lst)
 # print(s)
 
-s1 = input("Enter word: ")
-s2 = input("Enter word2: ")
