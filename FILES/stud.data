@@ -1,0 +1,3 @@
+[101, 'Python', 'HTML', 22.12]
+('Python', 22.12, (1+2j), 'Zaid')
+{'Zaid', 'Python', 'XYZ', (1+2j)}

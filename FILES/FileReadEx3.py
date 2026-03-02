@@ -1,10 +1,12 @@
 # Program for Demonstrating Reading the Data from the file
 
 try:
-    with open("info.data") as fp:
-        filedata = fp.read()
+    with open("zaid.data") as fp:
+        filedata = fp.readlines()
         print("-"*50)
-        print(filedata)
+        for line in filedata:
+            print(line,end="")
+        print()
         print("-"*50)
 except FileNotFoundError:
     print("File does not Exist")

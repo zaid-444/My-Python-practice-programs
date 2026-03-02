@@ -1,7 +1,9 @@
-# Program for Demonstrating Reading the Data from the file
+# Write a python program which will display content of any file
+
+file = input("Enter File name to see content: ")
 
 try:
-    with open("info.data") as fp:
+    with open(file,"r") as fp:
         filedata = fp.read()
         print("-"*50)
         print(filedata)
