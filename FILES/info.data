@@ -1,3 +1,9 @@
-Hii,
-My name is Zaid
-I am learning backend development
+MVT pattern in Django (short explanation):
+
+Model: Handles the database logic. It defines the structure of data (tables, fields) and interacts with the database.
+
+View: Contains the business logic. It processes user requests, fetches data from models, and sends data to templates.
+
+Template: Handles the presentation layer. It displays data in HTML format to the user.
+
+In short: Model = Data, View = Logic, Template = UI.
