@@ -1,0 +1,10 @@
+CID,NAME,STATE
+100,Naresh,TS
+200,Ramesh,AP
+300,Suresh,MH
+400,Salman,HR
+500,Zaid,MP
+TID,NAME,EXP,SUB
+100,Saloni,10,NURSING
+101,Rahi,13,JAVA
+102,Katrina,11,HEROINE
