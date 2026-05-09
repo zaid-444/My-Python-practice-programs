@@ -1,0 +1,2 @@
+# Write a python program which will implement the following
+# Write a server program in such way that it recives the employee number from client side program and the server program must connect to database software and gives emp,name,salary...etc to client side program
