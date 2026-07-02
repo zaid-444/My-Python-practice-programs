@@ -12,7 +12,6 @@ def maxSubArray(nums):
                 mx = total
     return mx
 
-7372833106
 
 # Obtimal
 def maxSubArray(nums):
