@@ -1,7 +1,7 @@
 # 876. Middle of the Linked List
 
 
-# Brute TC--> O(N+n/2)  SC--> O(1)
+# Brute TC--> O(N+n/2)     SC--> O(1)
 def middleNode(head):
     temp = head
     c = 0

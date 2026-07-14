@@ -11,8 +11,8 @@ def sequentialDigits(low,high):
                 res.append(num)
     return res
 
-low = int(input("Low Value: "))
-high = int(input("High Value: "))
+low = int(input("Low value: "))
+high = int(input("High value: "))
 print("~"*30)
 print("Output:",sequentialDigits(low,high))
 print("~"*30)
