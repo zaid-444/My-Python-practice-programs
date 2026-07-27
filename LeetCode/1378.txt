@@ -1,0 +1,5 @@
+1378. Replace Employee ID With The Unique Identifier
+
+select em.name,en.unique_id
+from Employees em
+left join EmployeeUNI en on em.id =  en.id
